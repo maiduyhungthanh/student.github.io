@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Tuấn Anh",
+      "email": "tuananh@gmail.com",
+      "phone": "0965234185",
+      "birthday": "09/02/1995"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Bích Ngọc",
+      "email": "bichngoc@gmail.vn",
+      "phone": "0344987653",
+      "birthday": "12/05/2002"
+    },
+    {
+      "id": 3,
+      "name": "Trần Minh Anh",
+      "email": "minhanh@gmail.com",
+      "phone": "0987654321",
+      "birthday": "24/06/1999"
+    },
+    {
+      "id": 4,
+      "name": "Nanette MacDearmaid",
+      "email": "nmacdearmaid0@ucla.edu",
+      "phone": "185-129-2326",
+      "birthday": "11/18/1995"
+    },
+    {
+      "id": 5,
+      "name": "Catherine Waberer",
+      "email": "cwaberer2@umn.edu",
+      "phone": "652-951-9313",
+      "birthday": "12/2/2002"
+    },
+    {
+      "name": "Peter Crouch",
+      "email": "c@gmail.com",
+      "phone": "123123129",
+      "birthday": "01/02/1999",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Thanh Mai",
+      "email": "maiduyhungthanh@gmail.com",
+      "phone": "0354524700",
+      "birthday": "02/02/2020"
+    },
+    {
+      "id": 90231,
+      "name": "Thanh Mai",
+      "email": "maiduyhungthanh@gmail.com",
+      "phone": "0354524700",
+      "birthday": "1/1/1111"
+    },
+    {
+      "name": "Thanh Mai",
+      "email": "maiduyhungthanh@gmail.com",
+      "phone": "0354524700",
+      "birthday": "02/02/2020",
+      "id": 54272
+    }
+  ]
+}
